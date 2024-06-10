@@ -1,2 +1,2 @@
-foo = foo version 888
-democonfigclient.message=hello watson, demo for config client demo
+foo: foo version 888
+democonfigclient.message: hello watson, demo for config client demo
